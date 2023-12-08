@@ -15,9 +15,9 @@ return [
     'primary' => [
         'db_driver'		=> 'mysql',
         'db_host'		=> 'localhost',
-        'db_user'		=> 'root2',
-        'db_pass'		=> '',
-        'db_name'		=> 'yekda2',
+        'db_user'		=> 'kristalnevsehir_vt',
+        'db_pass'		=> 'c$I8g98(3h.e',
+        'db_name'		=> 'kristalnevsehir_vt',
         'db_charset'	=> 'utf8',
         'db_collation'	=> 'utf8_general_ci',
         'db_prefix'		=> ''
