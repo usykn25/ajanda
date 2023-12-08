@@ -15,9 +15,9 @@ return [
     'primary' => [
         'db_driver'		=> 'mysql',
         'db_host'		=> 'localhost',
-        'db_user'		=> 'root',
+        'db_user'		=> 'root2',
         'db_pass'		=> '',
-        'db_name'		=> 'yekda',
+        'db_name'		=> 'yekda2',
         'db_charset'	=> 'utf8',
         'db_collation'	=> 'utf8_general_ci',
         'db_prefix'		=> ''
